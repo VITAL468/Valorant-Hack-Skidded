@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Immortal", "Immortal\Immortal.csproj", "{D6A04466-F0C6-4F21-877E-C7E9625C2E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6A04466-F0C6-4F21-877E-C7E9625C2E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A04466-F0C6-4F21-877E-C7E9625C2E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A04466-F0C6-4F21-877E-C7E9625C2E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A04466-F0C6-4F21-877E-C7E9625C2E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
